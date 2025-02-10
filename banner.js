@@ -15,6 +15,5 @@ export const banner = `
  │                                                          │
  │                                                          │
  ╰─━━━━━━━━━━━━━━━━━━━━━━━━Termux-os━━━━━━━━━━━━━━━━━━━━━━━─╯
-`;
-            ${chalk.yellow('AQEEL AI  AUTO - BOT')}                
+ ${chalk.yellow('AQEEL AI  AUTO - BOT')}                
 📢  ${chalk.yellow('Telegram Channel: https://t.me/CryptoWithAqeel')}`;
